@@ -2,6 +2,18 @@
 
 **English** | [README_en.md](readme_en.md)
 
+当前的积分排名
+|公司|模型|积分（平均）|指令正确率（平均）|
+|-|-|-|-|
+|谷歌|gemini-2.5-flash-nothinking|30|0.78|
+|月之暗面|kimi-k2-0711-preview|25|0.6515|
+|deepseek|deepseek-chat|20|0.8948|
+|字节|doubao-seed-1-6-flash-250615|20|0.314|
+|HW|pangu-pro-moe|20|0.753|
+|微软/OpenAI|o4-mini|15|0.93|
+|xAI|grok-3-mini|10|0.87|
+|阿里|qwen-plus-latest|10|0.7774|
+
 <video src="https://private-user-images.githubusercontent.com/5309375/471211068-0127364b-9b00-4839-9f6c-1eed320dfdcb.mp4?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTM2MjYxNjQsIm5iZiI6MTc1MzYyNTg2NCwicGF0aCI6Ii81MzA5Mzc1LzQ3MTIxMTA2OC0wMTI3MzY0Yi05YjAwLTQ4MzktOWY2Yy0xZWVkMzIwZGZkY2IubXA0P1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9QUtJQVZDT0RZTFNBNTNQUUs0WkElMkYyMDI1MDcyNyUyRnVzLWVhc3QtMSUyRnMzJTJGYXdzNF9yZXF1ZXN0JlgtQW16LURhdGU9MjAyNTA3MjdUMTQxNzQ0WiZYLUFtei1FeHBpcmVzPTMwMCZYLUFtei1TaWduYXR1cmU9YzA0YWM2ZTQ1Njg3OGJlZTljZjVlNDU5ZjI4M2FmNmI1ODI4Y2E3MWZjZWRlMWNiNTkxMDdkNTgyNjkzZjhiMCZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QifQ.Y0jLe0b3ffFCJyU035S-I52u9PVz13HxXT_a5jJoCFk" data-canonical-src="https://private-user-images.githubusercontent.com/5309375/471211068-0127364b-9b00-4839-9f6c-1eed320dfdcb.mp4?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTM2MjYxNjQsIm5iZiI6MTc1MzYyNTg2NCwicGF0aCI6Ii81MzA5Mzc1LzQ3MTIxMTA2OC0wMTI3MzY0Yi05YjAwLTQ4MzktOWY2Yy0xZWVkMzIwZGZkY2IubXA0P1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9QUtJQVZDT0RZTFNBNTNQUUs0WkElMkYyMDI1MDcyNyUyRnVzLWVhc3QtMSUyRnMzJTJGYXdzNF9yZXF1ZXN0JlgtQW16LURhdGU9MjAyNTA3MjdUMTQxNzQ0WiZYLUFtei1FeHBpcmVzPTMwMCZYLUFtei1TaWduYXR1cmU9YzA0YWM2ZTQ1Njg3OGJlZTljZjVlNDU5ZjI4M2FmNmI1ODI4Y2E3MWZjZWRlMWNiNTkxMDdkNTgyNjkzZjhiMCZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QifQ.Y0jLe0b3ffFCJyU035S-I52u9PVz13HxXT_a5jJoCFk" controls="controls" muted="muted" class="d-block rounded-bottom-2 border-top width-fit" style="max-height:640px; min-height: 200px">
 
   </video>
